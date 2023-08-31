@@ -132,3 +132,196 @@ Nuestra aplicación está dirigida a personas que buscan ropa de calidad a preci
 - Personas con un presupuesto limitado que buscan ropa de calidad a precios asequibles.
 
 Nuestra aplicación ofrece una amplia selección de ropa de segunda mano en excelentes condiciones, desde prendas básicas hasta piezas de diseñador. Ofrecemos una experiencia de compra fácil y segura, con opciones de pago convenientes y envío rápido.
+
+# Capitulo II
+
+## 2.1. Competidores
+
+Nuestro competidores son: una página ya establecida de venta de ropa de segunda
+mano, Mercado Libre que es un e-commerce y las redes sociales como Instragram
+que tiene varias páginas que se dirigen al mismo público objetivo que nosotros.
+
+### 2.1.1. Análisis Competitivo
+
+| texto        | Las traperas                                                                                                                                                                                                                     | Mercado Libre                                                                                                                                                                                                                                | Instagram                                                                                                                                                                                                      |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Información  | <ul><li>Es una tienda física que cuenta con página web, a través de la cuál se pueden realizar compras que pueden ser enviadas a nivel nacional.</li><li>Las personas pueden acercarse a la tienda para vender su ropa</li></ul> | <ul><li>Es un e-commerce donde se venden diferentes tipos de productos</li><li>El envío de estos productos depende de la persona o empresa que ha publicado dicho producto</li></ul>                                                         | <ul><li>Es una red social que cuenta con un apartado de cuentas profesionales</li><li>Algunas de estas cuentas se dedican a la venta de ropa de segunda mano</li></ul>                                         |
+| Limitaciones | <ul><li>Como la tienda se encarga de poner el precio a la ropa que compra, entonces pueden estar limitado la ganancia de las personas que venden su ropa de segunda mano</li></ul>                                               | <ul><li>Mercado Libre no está especializado en la venta o compra de ropa de segunda mano</li><li>La ropa que se ofrece no cuenta con una verificación de calidad entonces el comprador no puede cerciorarse de lo que va a comprar</li></ul> | <ul><li>No ofrece ninguna pasarela de pago por lo que la compra y venta se deben realizar en persona</li><li>No cuenta con una forma factible de verificar la calidad de las prendas de segunda mano</li></ul> |
+
+### 2.1.2. Estrategias y Tácticas frente a nuestros competidores
+
+Nuestros competidores son plataformas que se encargan de la venta de la ropa de segunda mano y en el caso de “Las Traperas” compra esta ropa, pero la misma empresa pone los precios.<br>Nuestra aplicación tiene como objetivo ser intermediario entre los compradores y vendedores. Los vendedores podrán publicar sus prendas al precio que consideren adecuado previa revisión de la plataforma. En el otro lado, los compradores podrán realizar el pago de estas prendas a través de nuestro carrito de compras con todas las medidas de seguridad y privacidad necesarias.
+
+## 2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas
+
+Luego de haber identificado a nuestro público objetivo, hemos decidido entrevistar a:
+
+- Vendedores de ropa de segunda mano.
+- Personas interesadas en comprar ropa de segunda mano.
+
+Decidimos hacerles una serie de preguntas a los entrevistados. Las preguntas elegidas serán sobre las dificultades que se han encontrado al momento de vender o
+comprar vestimenta de segunda mano. Además de preguntar sobre la influencia que tiene la tecnología y el impacto que tuvo la pandemia en su forma de adquirir prendas de vestir.
+
+#### Preguntas - Vendedores de ropa de segunda mano
+
+- ¿Con qué frecuencia suele vender ropa?
+- ¿A través de qué medio vende la ropa de segunda mano?
+- ¿Con qué medio los clientes realizan el pago por la prenda?
+- ¿Cómo le hace entrega de la ropa a sus compradores?
+- ¿Con qué dificultades se ha encontrado al momento de querer realizar las ventas?
+- ¿Cuánto tiempo demora en realizar una venta desde que realizó la publicación de la prenda?
+- ¿Qué es lo que los interesados en comprar la prenda le preguntan antes de realizar el pago?
+- ¿Cree que sus ventas incrementarían si tuviera una plataforma en la que los compradores pudieran encontrar las prendas que buscan con mayor rapidez?
+
+#### Preguntas - Personas interesadas en comprar ropa de segunda mano
+
+- ¿Consideras que comprar ropa de segunda mano es útil para ahorrar dinero?
+- ¿Con qué frecuencia adquiere vestimenta de segunda mano?
+- ¿En qué se fija al momento de querer comprar una prenda de segunda mano?
+- ¿A través de qué medio compra esta ropa?
+- ¿Cuáles son las dificultades que encuentra al momento de querer adquirir este tipo de prendas?
+- ¿Conoce o ha visto alguna página en una red social que se dedique a la venta de ropa de segunda mano?
+- ¿Conoce páginas que se dediquen a la venta de esta ropa?¿Qué tan útiles y confiables les parecieron?
+- ¿Usaría una app que le muestra ropa de segunda mano de calidad a un precio justo y que le brinde la seguridad necesaria?
+
+#### Preguntas - Vendedores de ropa de segunda mano
+
+- ¿Cómo se enteró de las ventas de segunda mano en internet?
+- ¿Cómo decidió iniciar en las ventas de segunda mano a través de internet?
+- ¿Cuál fue la red social o plataforma que eligió para realizar sus ventas por primera vez?
+- ¿Sigue realizando las ventas con esa app o red o plataforma?
+- ¿Cómo fueron los primeros meses de su emprendimiento según las ventas completadas?
+- ¿Cree que su emprendimiento creció a lo largo de los meses?
+- ¿Alguna vez tuviste algún inconveniente con un comprador?
+- ¿De qué forma pudieron solucionarlo?
+- ¿Cree que la app que utiliza podría mejorar para evitar todo tipo de inconvenientes?
+- ¿De qué manera cree que la app puede ayudar a crecer este tipo de emprendimientos?
+
+#### Preguntas - Personas interesadas en comprar ropa de segunda mano
+
+- ¿Cómo se decidió por comprar una prenda de segunda mano?
+- ¿Qué es lo primero que revisa cuando compra una prenda?
+- ¿Alguna vez tuvo algún problema con un vendedor por una prenda en mal estado?
+- ¿Qué tan difícil es para usted encontrar prendas que le llamen la atención?
+- ¿Qué app usa para encontrar tiendas de este tipo?
+
+### 2.2.2. Registro de entrevistas
+
+#### Entrevista 01 – User 1
+
+#### Entrevistado: Nombre 1
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl quis<br>
+Link: [Link](https://www.youtube.com)
+
+#### Entrevista 02 – User 2
+
+#### Entrevistado: Nombre 2
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl quis<br>
+Link: [Link](https://www.youtube.com)
+
+#### Entrevista 03 – User 3
+
+#### Entrevistado: Nombre 3
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl quis<br>
+Link: [Link](https://www.youtube.com)
+
+### 2.2.3. Análisis de entrevistas
+
+#### Entrevistado: Nombre 1
+
+| Pregunta | Respuesta |
+| -------- | --------- |
+| P01      | Respuesta |
+| P02      | Respuesta |
+| P03      | Respuesta |
+| P04      | Respuesta |
+| P05      | Respuesta |
+| P06      | Respuesta |
+| P07      | Respuesta |
+| P08      | Respuesta |
+| P09      | Respuesta |
+| P10      | Respuesta |
+
+#### Entrevistado: Nombre 2
+
+| Pregunta | Respuesta |
+| -------- | --------- |
+| P01      | Respuesta |
+| P02      | Respuesta |
+| P03      | Respuesta |
+| P04      | Respuesta |
+| P05      | Respuesta |
+| P06      | Respuesta |
+| P07      | Respuesta |
+| P08      | Respuesta |
+| P09      | Respuesta |
+| P10      | Respuesta |
+
+#### Entrevistado: Nombre 3
+
+| Pregunta | Respuesta |
+| -------- | --------- |
+| P01      | Respuesta |
+| P02      | Respuesta |
+| P03      | Respuesta |
+| P04      | Respuesta |
+| P05      | Respuesta |
+| P06      | Respuesta |
+| P07      | Respuesta |
+| P08      | Respuesta |
+| P09      | Respuesta |
+| P10      | Respuesta |
+
+## 2.3. NeedFinding
+
+### 2.3.1. User Personas
+POR COMPLETAR
+### 2.3.2. User Task Matrix
+
+| TAREAS                                  | FRECUENCIA | IMPORTANCIA |
+| --------------------------------------- | ---------- | ----------- |
+| VERIFICAR LOS PRODUCTOS SUBIDOS         | SOMETIMES  | HIGH        |
+| REALIZAR SOLICITUD DE DEVOLUCIÓN        | SOMETIMES  | HIGH        |
+| VERIFICAR LAS ENTREGAS DE PRODUCTOS     | OFTEN      | LOW         |
+| REALIZAR VENTAS POR DELIVERY            | SOMETIMES  | HIGH        |
+| REALIZAR VERIFICACIÓN DE CUENTA         | RARELY     | MEDIUM      |
+| ENTREGAR LOS PRODUCTOS EN BUEN ESTADO   | SOMETIMES  | HIGH        |
+| RECIBIR LOS PRODUCTOS                   | SOMETIMES  | HIGH        |
+| REALIZAR ANÁLISIS DE VENTAS AL MES      | RARELY     | MEDIUM      |
+| REALIZAR LISTA DE PRODUCTOS VENDIDOS    | RARELY     | MEDIUM      |
+| VISUALIZAR LAS VALORACIONES DE CLIENTES | OFTEN      | LOW         |
+| CATEGORIZAR A LOS VENDEDORES            | OFTEN      | LOW         |
+
+### 2.3.3. User Journey Mapping
+
+| FASE                                                          | REGISTRO                                                                                                        | COMPRA                                                                                                                                                                                                                                                                                | RECEPCIÓN DEL PRODUCTO                                                                                                |
+| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Acción (What does the costumer do?)                           | <ul><li>Ingresar un correo y contraseña</li><li>Escribir la dirección de domicilio</li></ul>                    | <ul><li>Busca la ropa que busca a través de filtros</li><li>Revisa las fotos de la ropa de segunda mano</li><li>Revisa las reseñas de los usuarios que compraron de esa persona</li><li>Agrega el producto al carrito</li><li>Escoge un método de pago (Tarjeta o Depósito)</li></ul> | <ul><li>Abrir al delivery</li><li>Responder el pequeño cuestionario que le hará</li><li>Escribir una reseña</li></ul> |
+| Interacción (What part of the service do they interact with?) | <ul><li>Landing page</li><li>Formulario de registro</li></ul>                                                   | <ul><li>Sección de búsqueda</li><li>Carrito de compras</li><li>Pasarela de pago</li><li>Página de confirmación de pago</li></ul>                                                                                                                                                      | <ul><li>Página de confirmación de recepción</li><li>Sección de reseñas</li></ul>                                      |
+| Pensamiento (What is the costumer thinking?)                  | <ul><li>La página se ve confiable</li><li>Si me piden la dirección de mi casa entonces hacer entregas</li></ul> | <ul><li>Que fácil es encontrar lo que busco</li><li>Espero que los precios sean adecuados</li><li>¿Cuanto tiempo demorará la entrega?</li><li>Espero que aquello que pedí se encuentre en buenas condiciones</li></ul>                                                                | <ul><li>Que bonito es el empaquetado</li><li>El cuestionario fue corto</li><li>La entrega fue muy rápida</li></ul>    |
+| Oportunidades                                                 | <ul><li>Mostrar el precio de algunas prendas</li><li>Mostrar reseñas de otros usuarios</li></ul>                | <ul><li>Mostrar ofertas especiales en la cabecera de la página</li><li>Sugerir prendas en función de anteriores compras</li><li>Ofrecer cupones de descuento</li></ul>                                                                                                                | <ul><li>Añadir cupones en la entrega para futuras compras</li></ul>                                                   |
+
+### 2.3.4. Empathy Mapping
+POR COMPLETAR
+### 2.3.5. As/Is Scenario Mapping
+
+#### User Persona 01 – Cliente
+
+| PHASES   | ELECCIÓN DE PRODUCTO                       | REVISAR EL MEJOR PRECIO                             | REALIZAR COMPRA                          |
+| -------- | ------------------------------------------ | --------------------------------------------------- | ---------------------------------------- |
+| DOING    | Buscar en la App el producto               | Utilizar la función para buscar los mejores precios | Realizar la compra y esperar el delivery |
+| THINKING | Me pregunto si podré conseguir el producto | Espero encontrar el producto                        | Espero llegue rápido                     |
+| FEELING  | Preocupado por encontrar el producto       | Nervioso por saber el precio del producto           | Emocionado por que llegue                |
+
+#### User Persona 02 – Vendedor
+
+| PHASES   | ELECCIÓN DE PRODUCTO                | REVISAR EL MEJOR PRECIO              | REALIZAR COMPRA                               |
+| -------- | ----------------------------------- | ------------------------------------ | --------------------------------------------- |
+| DOING    | Recibir las prendas                 | Revisar que las prendas              | Aprobar las prendas y permitir la publicación |
+| THINKING | Me pregunto si la prenda se vendera | Espero que se vendan las prendas     | Espero que se entreguen las prendas           |
+| FEELING  | Preocupado por vender las prendas   | Nervioso por saber si tengo clientes | Emocionado por vender las prendas             |
